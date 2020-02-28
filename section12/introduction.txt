@@ -1,0 +1,3 @@
+Callable class
+- When dart class is call like a function 
+    - Implement call() function

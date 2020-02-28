@@ -1,0 +1,22 @@
+ Exploring Collections in Dart
+
+ The sections cover:
+ - List 
+      Fixed Lendth list
+      Growable list
+ - Set
+      HashSet
+ - Map
+      HashMap
+
+
+     List 
+        In Dart, Array is known as LIST
+
+        Ordered Collection 
+
+        List Types :
+             Fixed Lendth List
+                - Lendth once defined can not be changed
+             Growable List
+                - Lendth is dynamic

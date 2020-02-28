@@ -1,0 +1,48 @@
+The section cover:
+    - How to declare variables?
+    - What are built-in data types in dart?
+    - What are literals?
+    - String inter politation
+    - Constants in dart
+         final keyword
+         const keyword
+
+
+ Dart has special supports for these data types
+    - Numbers
+         int
+         double
+    - String
+    - Boolean
+    - List
+    - Maps
+    - Runes
+    - Symbols
+
+
+All data types in darts are object
+
+3.2 String_literals_interpolation.dart
+    - what are literals?
+        //Literals
+            true;
+            2;
+            "john";
+            4.5;
+    - various ways to write literals
+    - string interpolation 
+
+3.3 Constants using 'final' and 'const' keyword.
+    - How to define Constants?
+        = if you never want to change a value than use final and const keywords
+             final keyword
+                final name = "Peter";
+             const keyword
+                const pi = 3.14;
+
+        * Difference between final and const
+             final variable can only be set once and it is initialized when accessed.
+                (if we does'nt use variables it will never consume memory)
+             const variable is implicity final but it is a compile time Constants
+                -i.e It is initialized during compilation
+                (for const It means wather we use or not it will consume memory)    

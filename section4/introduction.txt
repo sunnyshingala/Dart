@@ -1,0 +1,16 @@
+Control flow statements or conditional statements
+
+The Section coveres:
+    - IF and ELSE
+    - conditional expressions
+    - switch and case statements
+
+4.1 IF and ELSE conditional statements
+    - How to use IF and ELSE conditional statements?
+    - Also, If ELSE.. IF ladder statements
+
+4.2 conditional expressions
+    - Ternary operators of java 
+
+4.3 switch and case statements
+    - Allow only int and string datatypes 

@@ -1,0 +1,13 @@
+Exceptation Handling
+This section will cover:
+
+    - What is Exceptation Handling?
+    - How to Handle Exceptation using:
+         Try
+         Catch
+         ON
+         Finally
+    - What is stackTrace?
+    - How to create our own Custom Exceptation Handling Class?
+
+    

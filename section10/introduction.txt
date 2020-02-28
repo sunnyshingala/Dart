@@ -1,0 +1,13 @@
+The section covers:
+    - Introduction to Lambda and Higher-order function
+    - Implementing Lambda Expressions and Higher-order function
+    - Closures
+
+    //-- Lambda function --//
+        - A function without a name
+        - Also known as Anonymous function and Lambda
+
+    // Note: A function in Dart is an object
+        - int sum = 2;
+        - String message = "Hello";
+        - function addNumbers = //some value;

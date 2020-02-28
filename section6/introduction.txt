@@ -1,0 +1,19 @@
+- The section will cover
+    - Introduction to functions?
+    - syntax and property of functions
+    - functions as expression
+    - Different type of functions parameters
+         Required parameters
+         Optional parameters
+            - Optional positional parameters
+            - Optional Named parameters
+            - Optional Default parameters
+- What is a function?
+    = Collection of statements grouped togather to perform an operation
+
+
+** functions in dart are objects.
+    - function can be assign to a variable or passed as parameters to other functions.
+** All function in dart return a value
+    - If no return value is specified the function return null
+** specifying return value is Optional but it is recomendad as per code convension

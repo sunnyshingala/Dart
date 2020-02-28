@@ -1,0 +1,9 @@
+The section covers
+    - Getter and Setter: Default and Custom
+    - Inheritance in Dart with Demo
+    - Method overriding
+    - Using constructor during Inheritance
+    - Abstract Class and Methods
+    - Using interface in Dart
+    - Static Methods and Variables
+    
